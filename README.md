@@ -20,7 +20,6 @@ What I do for a living:
 - Fix software issues
 
 <!--START_SECTION:badges-->
-
 <!--END_SECTION:badges-->
 
 <!--Badges:
