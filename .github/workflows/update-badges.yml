@@ -16,4 +16,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.4.0
         with:       
-          CREDLY_USER: <eugene-wong.71f6a6cd> # optional, but default will use the same from github
+          CREDLY_USER: eugene-wong.71f6a6cd # optional, but default will use the same from github
