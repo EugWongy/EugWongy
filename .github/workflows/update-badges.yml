@@ -1,6 +1,12 @@
-name: Update badges
+name: Update Credly Badges
 
-on: workflow_dispatch
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme:
@@ -8,6 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: eugene-wong.71f6a6cd_credly
+        uses: pemtajo/badge-readme@2.4.0
+        with:       
+          CREDLY_USER: <eugene-wong.71f6a6cd> # optional, but default will use the same from github
