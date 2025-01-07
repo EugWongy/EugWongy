@@ -1,33 +1,5 @@
 ### Hi! I'm Eugene 👋
 
-Husband & father | Adventurer | ICT specialist | Business owner of [b.Simple Solutions](https://bsimple.space)
-
-💬 Ask me about:
-
-- Cybersecurity
-- Networking
-- System administration
-- Web administration
-
-🌱 I’m currently learning:
-
-- HTML, CSS & JavaScript
-
-🎣 What I do for a living:
-
-- Cybersecurity analyst & advisory
-- Manage websites and administration
-- Fix hardware issues
-- Fix network issues
-- Fix software issues
-
-💵 How can you support me:
-
-- [Hire my ICT services at b.Simple Solutions](https://bsimple.space)
-- [View my Fiverr gigs](https://www.fiverr.com/eugenewongwa)
-- [Buy my photos from Shutterstock](https://www.shutterstock.com/g/ligenediary)
-- [Buy my high quality photos from Alamy](https://www.alamy.com/portfolio/ligenediary)
-
 ---
 
 ## View my verified badges
