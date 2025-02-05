@@ -1,6 +1,6 @@
 ### Hi! I'm Eugene 👋
 
-I believe that data can help take us a long way in making better decisions. I’m passionate about evidence-based decision making and the practical use of it. My areas of interest lie in the practical application of Welfare and Social Economics- the study of the relationship between resource allocation in society and social well-being.
+I believe that data can help take us a long way in making better decisions. I’m passionate about evidence-based decision making and the practical use of it. My areas of interest lie in the practical application of Welfare Economics- the study of the relationship between resource allocation in society and social well-being.
 
 ---
 
